@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdiancode&show_icons=true&theme=dracula" alt="ferdiancode Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferdianc0de&show_icons=true&theme=dracula" alt="ferdianc0de Github Stats">
 </div>
 <br>
 
