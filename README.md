@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferdiancode&show_icons=true&theme=dracula" alt="ferdiancode Github Stats">
+</div>
+<br>
+
+<div align="center">
+  <h2> Ferdian Dwi Nugroho </h2>
+</div>
+<br>
+
+<h2> 👨‍💻 Main Languages and Tools </h2>
